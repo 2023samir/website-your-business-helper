@@ -14,7 +14,7 @@ http://1000000stores.ru/
 
 ## 1 обзор проекта
 
-![1](https://github.com/2023samir/website-your-business-helper/blob/86d78641c53ee9d831c55f75885457daf1e7c6ab/README/1.JPG)
+![1](https://github.com/2023samir/website-your-business-helper/blob/main/README/1.JPG)
 
 Функционал:
 
